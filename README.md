@@ -1,4 +1,4 @@
-# Retail Stock Sales | Revenue, Trends and Insights
+# 📊 Retail Stock Sales | Revenue, Trends and Insights
 Excel Project | Retail Sales Data | From Raw Data to Business Insight.
 
 ## Table of Content
