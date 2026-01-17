@@ -3,13 +3,13 @@ Excel Project | Retail Sales Data | From Raw Data to Business Insight.
 
 ## Table of Content
 
-* [Project Overview](Project-Overview)
-* [Tools & Techniques](Tools-&-Techniques)
-* [Dataset Overview](Dataset--Overview)
-* [Data Cleaning Process](Data-Cleaning-Process)
-* [Excel Dashboard](Excel-Dashboard)
-* [Key Insight](Key-Insight)
-* [Recommendations](Recommendations)
+* [Project Overview](#project-overview)
+* [Tools & Techniques](#tools--techniques)
+* [Dataset Overview](#dataset-overview)
+* [Data Cleaning Process](#data-cleaning-process)
+* [Excel Dashboard](#excel-dashboard)
+* [Key Insight](#key-insight)
+* [Recommendations](#recommendations)
   
 ### Project Overview
 This Project analyzes retail stock sales data to uncover trends in revenue, regional sales,product performance and profitabilty,
