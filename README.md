@@ -32,7 +32,7 @@ Sample Review
 |-----|----------------------|--------|--------------|-------------|
 | 3 | 	Bonnie Potter |	88522 |	Corporate |	Office Supplies |
 | 5 |	Ronnie Proctor |	90193 |	Home Office |	Furniture |
-| 11 |	Marcus | Dunlap |	90192 |	Home Office |	Furniture |
+| 11 |	Marcus Dunlap |	90192 |	Home Office |	Furniture |
 | 14 |	Gwendolyn F Tyson |	86838 |	Small Business | Furniture | 
 
 ### Data Cleaning Process
